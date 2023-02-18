@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nipunsampath/nipunsampath/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.sv](https://raw.githubusercontent.com/nipunsampath/nipunsampath/output/github-contribution-grid-snake.svg)g">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
+
 <!--
 **nipunsampath/nipunsampath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
