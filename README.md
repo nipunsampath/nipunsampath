@@ -1,4 +1,10 @@
-### Hi there 👋
+### Nipun Sampath | Full-Stack Developer 👨‍💻
+
+**Hey there!! 👋 I'm Nipun.**
+
+- 💼 I'm a Software Engineer @ [WSO2](https://github.com/wso2).
+- ⚙️ I like to solve problems and build stuff!
+
 
   
 <picture>
