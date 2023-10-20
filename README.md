@@ -1,12 +1,12 @@
 ### Nipun Sampath | Full-Stack Developer 👨‍💻
 
-**Hey there!! 👋 I'm Nipun.**
+**Howdy, stranger!! 👋 I'm Nipun.**
 
 - 💼 I'm a Software Engineer @ [WSO2](https://github.com/wso2).
 - ⚙️ I like to solve problems and build stuff!
 
+![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunsampath&show=reviews,prs_merged&theme=transparent)
 
-  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nipunsampath/nipunsampath/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="[github-snake.sv](https://raw.githubusercontent.com/nipunsampath/nipunsampath/output/github-contribution-grid-snake.svg)g">
