@@ -1,9 +1,9 @@
 ### Nipun Sampath | Full-Stack Developer 👨‍💻
 
-**Howdy, stranger!! 👋 I'm Nipun.**
-
-- 💼 I'm a Software Engineer @ [WSO2](https://github.com/wso2).
-- ⚙️ I like to solve problems and build stuff!
+- 💼 Building cool [IAM](https://wso2.com/what-is-identity-access-management/) stuff @ [WSO2](https://github.com/wso2).
+- 🤝 Doing Volunteer stuff @ [LSF](https://github.com/ECLK) and [ECLK](https://github.com/ECLK).
+- ⚡ Powered by caffeine! ☕
+  
 
 ![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunsampath&show=reviews,prs_merged&theme=transparent)
 
