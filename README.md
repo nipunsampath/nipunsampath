@@ -1,7 +1,7 @@
 ### Nipun Sampath | Full-Stack Developer 👨‍💻
 
 - 💼 Building cool [IAM](https://wso2.com/what-is-identity-access-management/) stuff @ [WSO2](https://github.com/wso2).
-- 🤝 Doing Volunteer stuff @ [LSF](https://github.com/ECLK) and [ECLK](https://github.com/ECLK).
+- 🤝 Doing Volunteer stuff @ [LSF](https://github.com/LSFLK) and [ECLK](https://github.com/ECLK).
 - ⚡ Powered by caffeine! ☕
   
 
